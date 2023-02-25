@@ -3,7 +3,7 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
   }
-  .des{
+  .container{
     font-weight:500;
     background-color: white;
     opacity: 0.6;
